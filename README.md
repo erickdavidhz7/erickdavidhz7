@@ -5,6 +5,6 @@
 <p align="center">
     <h2>Programming Languages</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,python,java" />
+        <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript, html,css,react" />
     </a>
 </p>
