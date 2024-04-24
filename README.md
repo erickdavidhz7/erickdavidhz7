@@ -5,6 +5,13 @@
 <p align="center">
     <h2>Programming Languages</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react" />
+        <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+    </a>
+</p>
+
+<p align="center">
+    <h2>Technologies and frameworks</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,nodejs,react" />
     </a>
 </p>
