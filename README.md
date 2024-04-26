@@ -4,6 +4,12 @@ Projects
 
 https://dev.neumapp.site
 https://github.com/No-Country/s14-35-n-node-react/
+<p align="center">
+    <h2>Projects</h2>
+    
+https://dev.neumapp.site
+https://github.com/No-Country/s14-35-n-node-react/
+</p>
 
 <p align="center">
     <h2>Programming Languages</h2>
