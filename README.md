@@ -2,11 +2,6 @@
 <h3 align="center">A cybersecurity student, advanced python, java tutor and a passionate backend developer that is still learning and improving</h3>
 
 <p align="center">
-    <h2>Projects</h2>  
-https://dev.neumapp.site
-</p>
-
-<p align="center">
     <h2>Programming Languages</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
