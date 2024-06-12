@@ -4,7 +4,7 @@
 <p align="center">
     <h2>Programming Languages</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python,java" />
     </a>
 </p>
 
