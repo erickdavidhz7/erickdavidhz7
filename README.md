@@ -36,7 +36,7 @@ I also enjoy sharing knowledge as a **Python and Java tutor**.
 
 * **Backend Development:** Node.js, Express, TypeScript
 * **API Development:** REST APIs, service-oriented architectures
-* **Databases:** PostgreSQL, MongoDB
+* **Databases:** PostgreSQL, MongoDB, Redis
 * **Cloud:** AWS, GCP
 * **Programming:** TypeScript, JavaScript, Python, Java
 * **Infrastructure:** Docker
@@ -56,7 +56,7 @@ I also enjoy sharing knowledge as a **Python and Java tutor**.
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
 
 ### Cloud & Infrastructure
