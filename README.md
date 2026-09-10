@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Erick David Henríquez Sierra</h1>
 
 <h3 align="center">
-Semi-Senior Backend Developer · Computer Science Student · Python & Java Tutor
+Semi-Senior Backend Developer · Computer Science Student
 </h3>
 
 <p align="center">
